@@ -20,6 +20,11 @@
 <string>http://zfb.kk03.cn/AppIcon83.5x83.5@2x~ipad.png</string>
 </dict>
 <dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>http://zfb.kk03.cn/AppIcon83.5x83.5@2x~ipad.png</string>
+</dict>
 </array>
 <key>metadata</key>
 <dict>
